@@ -1,4 +1,4 @@
 # section2
 
 
-##### **adfadfadfadfdadfadfafasfasfadsdfasdfasdfasfasdf**
+##### ~~adfadfadfadfdadfadfafasfasfadsdfasdfasdfasfasdf~~
